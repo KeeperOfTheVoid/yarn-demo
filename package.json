@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "name": "yarn-demo",
+  "version": "1.0.0",
+  "description": "Quick Yarn Demo",
+  "main": "index.js",
+  "author": "Matthew Lalmansingh <gpjazzplayer@gmail.com>",
+  "license": "MIT"
+}
